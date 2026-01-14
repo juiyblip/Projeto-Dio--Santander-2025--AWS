@@ -13,9 +13,9 @@ A solução prioriza o custo-benefício, escalabilidade, alta disponibilidade e 
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
     Etapa 1:
-    - Nome da ferramenta: Amazon Redshift
-    - Foco da ferramenta: Data Warehouse para análise de Big Data, com alta performance para consultas analíticas e integração com múltiplas fontes de dados.
-    - Descrição do caso de uso: O Amazon Redshift é utilizado para o armazenamento e análise de dados operacionais da farmácia, como:
+    [Nome da ferramenta]: Amazon Redshift
+    [Foco da ferramenta]: Data Warehouse para análise de Big Data, com alta performance para consultas analíticas e integração com múltiplas fontes de dados.
+    [Descrição do caso de uso]: O Amazon Redshift é utilizado para o armazenamento e análise de dados operacionais da farmácia, como:
     - Controle de estoque de medicamentos;
     - Histórico de produtos retirados e distribuídos;
     - Volumes de vendas por região e parceiros;
@@ -24,9 +24,9 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 Dentro do conceito, o Redshift centraliza dados provenientes de farmácias afiliadas, distribuidores e parceiros logísticos, permitindo a identificação de tendências de consumo e otimização do abastecimento.
 
     Etapa 2:
-    - Nome da ferramenta: Amazon Neptune
-    - Foco da ferramenta: Banco de dados em grafo para análise de dados conectados, permitindo trazer insights entre clientes, produtos e parceiros.
-    - Descrição do caso de uso: O Neptune é aplicado para mapear e analisar a jornado do cliente e o ecossitema de relacionamentos da empresa, entre eles:
+    [Nome da ferramenta]: Amazon Neptune
+    [Foco da ferramenta]: Banco de dados em grafo para análise de dados conectados, permitindo trazer insights entre clientes, produtos e parceiros.
+    [Descrição do caso de uso]: O Neptune é aplicado para mapear e analisar a jornado do cliente e o ecossitema de relacionamentos da empresa, entre eles:
     - Conexões entre clientes, produtos e canais de compra;
     - Relacionamento entre farmácias afiliadas, distribuidores e fornecedores;
     - Mecanismos de recomendação de produtos;
@@ -35,9 +35,9 @@ Dentro do conceito, o Redshift centraliza dados provenientes de farmácias afili
 O objetivo do serviço e otimizar a administração do seus dados, e fortalecer a interações entre seus parceiros, promovendo uma visão mais integrada de negócio. 
 
     Etapa 3:
-    - Nome da ferramenta: Amazon QLDB 
-    - Foco da ferramenta: Banco de dados ledger totalmente gerenciado, com histórico imutável, criptografia e alta confiabilidade. 
-    - Descrição do caso de uso: O Amazon QLDB é utilizado para garantir a segurança e a integridade das transações especialmente em:
+    [Nome da ferramenta]: Amazon QLDB 
+    [Foco da ferramenta]: Banco de dados ledger totalmente gerenciado, com histórico imutável, criptografia e alta confiabilidade. 
+    [Descrição do caso de uso]: O Amazon QLDB é utilizado para garantir a segurança e a integridade das transações especialmente em:
     - Registros de compras e vendas;
     - Acessos a dados sensíveis de clientes;        
     - Prevenção de fraudes;
@@ -57,9 +57,7 @@ A implementação das ferramentas AWS na empresa Nouvelle Pharmacie tem como res
 Recomenda-se a continuidade do uso das ferramentas propostas e a avaliação constante de novas tecnologias AWS que possam aprimorar ainda mais os processos de distribuição e serviço da empresa.
 
 ## Anexos:
-Apreserntação do relatório em modelo visual:
-## Projeto-AWS.pdf
+[Projeto-AWS.pdf](https://github.com/juiyblip/Projeto-Dio--Santander-2025--AWS/blob/main/Projeto-AWS.pdf)
 
 Assisnatura do Responsável pelo Projeto:
 Joyce G.
-
