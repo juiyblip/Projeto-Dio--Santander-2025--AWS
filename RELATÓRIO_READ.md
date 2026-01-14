@@ -58,6 +58,7 @@ Recomenda-se a continuidade do uso das ferramentas propostas e a avaliação con
 
 ## Anexos:
 Apreserntação do relatório em modelo visual:
+Projeto-AWS.pdf
 
 Assisnatura do Responsável pelo Projeto:
 Joyce G.
