@@ -59,5 +59,27 @@ Recomenda-se a continuidade do uso das ferramentas propostas e a avaliação con
 ## Anexos:
 [Projeto-AWS.pdf](https://github.com/juiyblip/Projeto-Dio--Santander-2025--AWS/blob/main/Projeto-AWS.pdf)
 
+Créditos sobre os recursos utilizados no pdf:
+<a target="_blank" href="https://icons8.com/illustrations/illustration/68dfd1a1f7825b0001bf2b31">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/illustrations/illustration/6852b840091dd20011d2d96f">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/illustrations/illustration/68e3a9fb634b2e001738b510">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/illustrations/illustration/685d2ed8513c9400012c5e63">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/60946/shop">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/59775/delivery">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/59777/document--v1">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/59757/checked--v1">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/60692/pill">App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a href="https://www.flaticon.com/br/icones-gratis/pesquisa" title="pesquisa ícones">Pesquisa ícones criados por Freepik - Flaticon</a>
+
+
 Assisnatura do Responsável pelo Projeto:
 Joyce G.
